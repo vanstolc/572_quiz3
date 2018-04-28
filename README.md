@@ -13,4 +13,4 @@ The geojson file was simplied by 52% using www.mapshaper.org
 |-----------|-----------|
 | MioceneBasalt6.geojson | 9,136 KB |
 | MioceneBasalt6.topojson | 2,227 KB |
-|MioceneBasalt6_simplified.geojson.json| 5,268 KB |
+|MioceneBasalt6_simplified.geojson | 5,268 KB |
